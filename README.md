@@ -8,3 +8,6 @@ You can use github to version control your changes if you'd like, but please don
 ## Lectures
 
 This folder contains lecture slides and some non-coding exercises. Unfortunately I no longer have access to the lecture recordings, so the slides might not all make perfect sense without the lecture recordings to accompany them. Please feel free to ask me any questions if you're unsure about anything covered in the lecture slides!
+
+## Coursework
+This folder contains instructions for a longer exercise than the ones found in the Implementation folder. Hopefully it's self-explanatory, but again please get in touch if anything is unclear.
